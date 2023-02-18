@@ -35,28 +35,28 @@ function App() {
     <div className="py-1 space-y-3">
       <div className=" bg-pink-50 text-xs p-2 flex justify-between rounded-md">
         <div className="text-pink-400 font-semibold flex space-x-1">
-          <div ><img src="/icon-reaction.svg"/></div>
+          <div ><img src="/icon-reaction.svg" alt="reaction"/></div>
           <div>Reaction</div>
           </div>
         <div >80<span className="text-gray-400">/100</span></div>
       </div>
       <div className=" bg-yellow-50 text-xs p-2 flex justify-between rounded-md">
         <div className="text-yellow-400 font-semibold flex space-x-1" >
-        <div ><img src="/icon-memory.svg"/></div>
+        <div ><img src="/icon-memory.svg" alt="Memory"/></div>
           <div>Memory</div>
         </div>
         <div >92<span className="text-gray-400">/100</span></div>
       </div>
       <div className=" bg-green-50 text-xs p-2 flex justify-between rounded-md">
         <div className="text-green-400 font-semibold flex space-x-1" >
-        <div ><img src="/icon-verbal.svg"/></div>
+        <div ><img src="/icon-verbal.svg" alt="verbal"/></div>
           <div>Verbal</div>
         </div>
         <div >61<span className="text-gray-400">/100</span></div>
       </div>
       <div className=" bg-violet-100 text-xs p-2 flex justify-between rounded-md">
         <div className="text-violet-800 font-semibold flex space-x-1">
-        <div ><img src="/icon-visual.svg"/></div>
+        <div ><img src="/icon-visual.svg" alt="verbal"/></div>
           <div>Visual</div>
         </div>
         <div >72<span className="text-gray-400">/100</span></div>
